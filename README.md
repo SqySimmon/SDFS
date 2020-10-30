@@ -5,7 +5,7 @@ It can be deployed on any Linux systems within the same LAN network, passwordles
 # Packages
 * dfs_sqy: DFS.
 * map_reduce: Map-Reduce.
-* job_statistic: Specific jobs, like mean and variance statistic, also includes ADMM.
+* job_statistic: Specific jobs, like mean and variance statistic also ADMM.
 * client: Slaver of DFS.
 * utils 
 * dfs.sh: Some using samples.
