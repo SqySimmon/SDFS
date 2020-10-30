@@ -1,6 +1,6 @@
 # Descriptions
 Distributed file system and Map-Reduce based on Python 2.7 and Shell. </br>
-It appropriate any Linux clusters within LAN network. </br>
+It appropriates any Linux clusters within LAN network. </br>
 Passwordless authentication of ssh between different nodes should be set up at first.
 
 # Packages
