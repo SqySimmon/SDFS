@@ -1,6 +1,7 @@
 # Descriptions
-Distributed file system and Map-Reduce based on Python2.7 and Shell.
-It can be deployed on any Linux systems within the same LAN network, passwordless authentication of ssh between different Linux systems should be set up at first.
+Distributed file system and Map-Reduce based on Python 2.7 and Shell. </br>
+It appropriate any Linux clusters within LAN network. </br>
+Passwordless authentication of ssh between different nodes should be set up at first.
 
 # Packages
 * dfs_sqy: DFS.
